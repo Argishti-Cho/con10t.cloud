@@ -38,9 +38,10 @@ enjoy!
 My first python code ever kinda bad but it works. Rn I am working on a selenium version of this because using the webbrowser and pyautogui is really bad for this usecase ig.
 
 ## Note
-In this project I used virtual environment so you need first create a virtual environment. Here is used pipenv which you can
-install in your system and  do the following steps
-1. pipenv shell
-2. pipenv install
-it will create a virtual environment and install necessary dependencies.
+In this project, I used a virtual environment, so you need to first create a virtual environment. I used `pipenv`, which you can install on your system and follow these steps:
+1. `pipenv shell`
+2. `pipenv install`
+
+This will create a virtual environment and install the necessary dependencies.
+
 
